@@ -1,0 +1,56 @@
+{
+  "jumlah_data": 1000,
+  "silhouette_score": 0.2345,
+  "davies_bouldin_index": 1.3382,
+  "inertia": 90.0633,
+  "jumlah_per_kategori": {
+    "Sedang": 514,
+    "Berisiko": 272,
+    "Berhasil": 214
+  },
+  "centroid_skala_asli": {
+    "Berisiko": {
+      "rata_rata_nilai": 66.38,
+      "nilai_tugas": 70.13,
+      "nilai_uts": 64.68,
+      "nilai_uas": 63.75,
+      "kehadiran_persen": 94.66
+    },
+    "Berhasil": {
+      "rata_rata_nilai": 84.67,
+      "nilai_tugas": 92.88,
+      "nilai_uts": 86.35,
+      "nilai_uas": 86.0,
+      "kehadiran_persen": 96.32
+    },
+    "Sedang": {
+      "rata_rata_nilai": 75.94,
+      "nilai_tugas": 81.38,
+      "nilai_uts": 76.07,
+      "nilai_uas": 75.23,
+      "kehadiran_persen": 95.52
+    }
+  },
+  "evaluasi_terhadap_label_asli": {
+    "akurasi_kesesuaian_mayoritas": 0.887,
+    "persen_berhasil_per_kategori": {
+      "Berhasil": 1.0,
+      "Berisiko": 0.0368,
+      "Sedang": 0.7996
+    },
+    "tabel_kategori_vs_status": {
+      "Berhasil": {
+        "berhasil": 214,
+        "tidak berhasil": 0
+      },
+      "Berisiko": {
+        "berhasil": 10,
+        "tidak berhasil": 262
+      },
+      "Sedang": {
+        "berhasil": 411,
+        "tidak berhasil": 103
+      }
+    }
+  }
+}

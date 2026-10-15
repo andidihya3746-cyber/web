@@ -1,0 +1,29 @@
+[
+  {
+    "nis": "250001",
+    "kelas": "Macca 1",
+    "rata_rata_nilai": 90,
+    "nilai_tugas": 95,
+    "nilai_uts": 88,
+    "nilai_uas": 90,
+    "kehadiran_persen": 98
+  },
+  {
+    "nis": "250002",
+    "kelas": "Mattinulu 2",
+    "rata_rata_nilai": 76,
+    "nilai_tugas": 80,
+    "nilai_uts": 75,
+    "nilai_uas": 74,
+    "kehadiran_persen": 95
+  },
+  {
+    "nis": "250003",
+    "kelas": "Mallempu 3",
+    "rata_rata_nilai": 62,
+    "nilai_tugas": 68,
+    "nilai_uts": 60,
+    "nilai_uas": 58,
+    "kehadiran_persen": 90
+  }
+]

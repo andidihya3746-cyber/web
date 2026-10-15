@@ -1,0 +1,60 @@
+/* ============================================================
+   Tema akademik (navy + emas). Hanya warna + tombol tutup/buka sidebar.
+   Selektor diawali "body" supaya selalu menang atas style.css.
+   ============================================================ */
+:root {
+  --color-accent: #1e4a8a;
+  --color-accent-hover: #14305a;
+  --color-accent-soft: #e8eef7;
+  --color-bg: #f3f5f9;
+  --color-border: #dde3ee;
+  --color-text-strong: #0d2142;
+}
+
+/* ---------- Sidebar ---------- */
+body .sidebar { background: #14305a; border-right: 0; transition: transform .2s ease; }
+body .brand { color: #fff; border-bottom: 2px solid #b8892b; margin-bottom: 8px; }
+body .nav-title { color: #d9b86a; }
+body .nav-link { color: #dbe4f3; }
+body .nav-link:hover { background: rgba(255, 255, 255, 0.12); color: #fff; }
+body .nav-link.active { background: #b8892b; color: #fff; }
+
+/* ---------- Tombol garis tiga: tampil di semua ukuran layar ---------- */
+body .menu-btn { display: inline-flex; }
+
+/* Tutup/buka sidebar di layar besar */
+@media (min-width: 861px) {
+  body.sidebar-collapsed .sidebar { transform: translateX(-100%); box-shadow: none; }
+  body.sidebar-collapsed .main { margin-left: 0; }
+  body .main { transition: margin-left .2s ease; }
+}
+
+/* ---------- Bagian atas ---------- */
+body .badge-role { background: #f6efdd; color: #7a5a14; }
+body .page-header h1 { color: #0d2142; }
+
+/* ---------- Tombol ---------- */
+body .btn-primary { background: #14305a; border-color: #14305a; color: #fff; }
+body .btn-primary:hover { background: #0d2142; border-color: #0d2142; }
+
+/* ---------- Formulir ---------- */
+body .input:focus, body .select:focus {
+  border-color: #1e4a8a;
+  box-shadow: 0 0 0 3px rgba(30, 74, 138, 0.16);
+}
+
+/* ---------- Tabel ---------- */
+body .table th { background: #14305a; color: #fff; }
+body .table tbody tr:hover { background: #e8eef7; }
+body .page-btn.active { background: #14305a; border-color: #14305a; color: #fff; }
+
+/* ---------- Kartu statistik: garis warna di atas ---------- */
+body .stat { border-top: 4px solid #14305a; }
+body .stat:nth-child(2) { border-top-color: #22c55e; }
+body .stat:nth-child(3) { border-top-color: #f59e0b; }
+body .stat:nth-child(4) { border-top-color: #ef4444; }
+
+/* ---------- Halaman login ---------- */
+body.auth-body { background: #14305a; }
+body .auth-card { border-top: 5px solid #b8892b; }
+body .auth-title { color: #0d2142; }

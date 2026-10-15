@@ -1,0 +1,1001 @@
+id_siswa,kelas,status_keberhasilan,rata_rata_nilai,nilai_tugas,nilai_uts,nilai_uas,kehadiran_persen,cluster,kategori
+250344,Mattinulu 6,tidak berhasil,71.75,70,78,64,97.96,0,Berisiko
+250335,Mattinulu 5,berhasil,84.75,88,85,70,96.94,2,Sedang
+250225,Mattinulu 6,tidak berhasil,66.75,66,61,69,94.9,0,Berisiko
+250015,Mattinulu 4,berhasil,81.25,85,87,70,95.92,2,Sedang
+240266,Mallempu 7,berhasil,74.25,89,74,78,97.96,2,Sedang
+240086,Mallempu 3,berhasil,76.5,79,81,75,100.0,2,Sedang
+240162,Mallempu 7,berhasil,80.75,85,72,80,98.98,2,Sedang
+250021,Mattinulu 4,tidak berhasil,63.5,82,66,63,92.86,0,Berisiko
+260288,Macca 8,berhasil,78.5,95,76,81,89.8,1,Berhasil
+250347,Mattinulu 5,tidak berhasil,74.0,79,68,76,93.88,2,Sedang
+250090,Mattinulu 5,berhasil,79.25,89,78,77,95.92,2,Sedang
+240232,Mallempu 6,tidak berhasil,61.75,75,58,58,90.82,0,Berisiko
+250114,Mattinulu 8,berhasil,77.0,90,95,71,90.82,1,Berhasil
+250274,Mattinulu 1,tidak berhasil,74.25,78,72,60,85.71,0,Berisiko
+260246,Macca 3,tidak berhasil,65.75,75,78,65,93.88,0,Berisiko
+260146,Macca 6,tidak berhasil,77.0,79,71,68,95.92,2,Sedang
+250289,Mattinulu 3,berhasil,78.75,87,70,78,94.9,2,Sedang
+250031,Mattinulu 7,berhasil,78.5,81,67,69,96.94,2,Sedang
+240304,Mallempu 5,berhasil,82.0,82,79,73,90.82,2,Sedang
+250371,Mattinulu 8,berhasil,80.75,86,81,72,100.0,2,Sedang
+260349,Macca 3,berhasil,78.75,96,78,64,97.96,2,Sedang
+240193,Mallempu 5,berhasil,76.0,80,77,76,94.9,2,Sedang
+260354,Macca 4,berhasil,72.5,80,83,83,97.96,2,Sedang
+260374,Macca 1,tidak berhasil,73.25,76,61,83,97.96,2,Sedang
+260057,Macca 5,berhasil,85.5,86,92,95,95.92,1,Berhasil
+260042,Macca 6,berhasil,76.75,92,82,69,94.9,2,Sedang
+240207,Mallempu 1,berhasil,75.25,89,91,76,94.9,1,Berhasil
+250087,Mattinulu 2,berhasil,79.75,99,84,81,98.98,1,Berhasil
+260013,Macca 7,berhasil,85.75,85,78,88,94.9,1,Berhasil
+250277,Mattinulu 1,berhasil,82.5,85,82,81,98.98,1,Berhasil
+250004,Mattinulu 8,tidak berhasil,72.5,87,67,83,85.71,2,Sedang
+240053,Mallempu 1,berhasil,86.5,95,89,100,93.88,1,Berhasil
+260368,Macca 9,berhasil,74.0,80,70,81,91.84,2,Sedang
+240007,Mallempu 3,berhasil,92.5,90,78,94,97.96,1,Berhasil
+250293,Mattinulu 8,tidak berhasil,77.0,68,62,67,97.96,0,Berisiko
+250028,Mattinulu 1,berhasil,82.75,90,72,86,95.92,1,Berhasil
+250367,Mattinulu 8,tidak berhasil,64.75,58,64,75,92.86,0,Berisiko
+240151,Mallempu 5,berhasil,71.75,73,86,78,96.94,2,Sedang
+260304,Macca 4,tidak berhasil,62.5,68,87,56,95.92,0,Berisiko
+260117,Macca 6,tidak berhasil,71.25,66,67,65,95.92,0,Berisiko
+250026,Mattinulu 1,berhasil,79.75,81,88,74,97.96,2,Sedang
+240029,Mallempu 7,berhasil,71.75,87,69,77,98.98,2,Sedang
+250264,Mattinulu 8,tidak berhasil,72.75,80,79,72,94.9,2,Sedang
+260128,Macca 6,berhasil,82.0,89,85,83,89.8,1,Berhasil
+250123,Mattinulu 1,berhasil,86.5,95,91,75,95.92,1,Berhasil
+250165,Mattinulu 6,berhasil,82.75,85,93,75,93.88,1,Berhasil
+250276,Mattinulu 8,berhasil,77.75,90,79,83,100.0,1,Berhasil
+240178,Mallempu 3,berhasil,82.5,90,82,65,95.92,2,Sedang
+260126,Macca 1,berhasil,76.0,88,74,82,96.94,2,Sedang
+260010,Macca 4,tidak berhasil,72.0,93,69,62,94.9,2,Sedang
+250037,Mattinulu 1,berhasil,68.5,85,69,76,92.86,2,Sedang
+260172,Macca 8,tidak berhasil,70.5,74,78,67,97.96,2,Sedang
+250315,Mattinulu 3,berhasil,81.25,81,75,85,95.92,2,Sedang
+240045,Mallempu 1,tidak berhasil,71.0,79,61,67,97.96,0,Berisiko
+260040,Macca 7,tidak berhasil,72.25,77,71,65,96.94,2,Sedang
+260085,Macca 2,tidak berhasil,72.25,84,74,68,93.88,2,Sedang
+260054,Macca 2,berhasil,79.75,75,86,89,93.88,2,Sedang
+240061,Mallempu 7,berhasil,86.0,84,100,89,98.98,1,Berhasil
+250143,Mattinulu 4,tidak berhasil,76.5,87,67,71,92.86,2,Sedang
+240261,Mallempu 7,berhasil,79.75,100,78,75,96.94,1,Berhasil
+240273,Mallempu 2,tidak berhasil,72.75,87,68,75,96.94,2,Sedang
+250265,Mattinulu 5,tidak berhasil,68.25,55,67,66,97.96,0,Berisiko
+250075,Mattinulu 8,berhasil,72.0,83,76,64,95.92,2,Sedang
+250239,Mattinulu 3,berhasil,82.0,95,81,80,95.92,1,Berhasil
+260022,Macca 8,tidak berhasil,70.5,74,68,64,97.96,0,Berisiko
+240302,Mallempu 4,berhasil,76.5,64,78,71,92.86,0,Berisiko
+250254,Mattinulu 4,berhasil,89.75,93,96,93,95.92,1,Berhasil
+240013,Mallempu 3,berhasil,82.75,76,76,79,98.98,2,Sedang
+240104,Mallempu 1,berhasil,72.75,83,77,86,94.9,2,Sedang
+260363,Macca 2,berhasil,82.75,96,80,79,97.96,1,Berhasil
+250012,Mattinulu 4,tidak berhasil,68.25,68,68,68,82.65,0,Berisiko
+260200,Macca 8,berhasil,72.25,80,77,86,96.94,2,Sedang
+240297,Mallempu 6,tidak berhasil,62.25,55,64,60,94.9,0,Berisiko
+260075,Macca 9,berhasil,85.75,97,87,97,96.94,1,Berhasil
+240225,Mallempu 1,berhasil,72.0,76,83,82,95.92,2,Sedang
+250008,Mattinulu 1,berhasil,83.25,100,82,79,92.86,1,Berhasil
+260046,Macca 4,tidak berhasil,69.75,63,74,58,92.86,0,Berisiko
+260138,Macca 3,berhasil,75.75,86,87,83,93.88,2,Sedang
+250245,Mattinulu 1,berhasil,81.0,95,96,79,93.88,1,Berhasil
+250097,Mattinulu 3,berhasil,73.25,84,89,84,95.92,2,Sedang
+260003,Macca 8,berhasil,88.5,100,92,93,98.98,1,Berhasil
+240185,Mallempu 4,tidak berhasil,62.75,80,60,65,94.9,0,Berisiko
+240039,Mallempu 2,berhasil,92.0,94,88,97,96.94,1,Berhasil
+240263,Mallempu 2,berhasil,76.5,90,79,91,97.96,1,Berhasil
+250122,Mattinulu 3,berhasil,80.75,85,86,98,90.82,1,Berhasil
+260115,Macca 5,tidak berhasil,63.0,73,64,75,90.82,0,Berisiko
+260412,Macca 8,tidak berhasil,68.75,72,63,53,92.86,0,Berisiko
+240199,Mallempu 2,berhasil,77.0,85,89,86,100.0,1,Berhasil
+260413,Macca 3,berhasil,73.75,77,73,81,93.88,2,Sedang
+250210,Mattinulu 8,tidak berhasil,59.75,75,60,66,94.9,0,Berisiko
+250009,Mattinulu 3,berhasil,81.5,80,71,75,90.82,2,Sedang
+240307,Mallempu 3,tidak berhasil,59.75,64,45,55,92.86,0,Berisiko
+260167,Macca 7,berhasil,86.75,83,80,75,93.88,2,Sedang
+260039,Macca 2,berhasil,80.25,84,78,82,96.94,2,Sedang
+260392,Macca 7,tidak berhasil,67.0,58,70,73,93.88,0,Berisiko
+250247,Mattinulu 7,berhasil,73.25,81,66,69,95.92,2,Sedang
+240146,Mallempu 5,berhasil,85.0,82,78,85,97.96,2,Sedang
+240322,Mallempu 7,berhasil,74.75,90,85,72,95.92,2,Sedang
+240231,Mallempu 1,berhasil,82.0,85,99,100,96.94,1,Berhasil
+260280,Macca 7,berhasil,80.0,79,69,86,95.92,2,Sedang
+250138,Mattinulu 5,berhasil,83.5,96,87,82,95.92,1,Berhasil
+260175,Macca 3,tidak berhasil,68.0,78,70,52,94.9,0,Berisiko
+250025,Mattinulu 1,berhasil,76.0,85,72,79,95.92,2,Sedang
+240327,Mallempu 7,tidak berhasil,67.75,79,65,70,95.92,0,Berisiko
+260155,Macca 6,tidak berhasil,70.5,81,62,64,95.92,0,Berisiko
+260177,Macca 1,berhasil,81.5,84,76,97,94.9,1,Berhasil
+260222,Macca 2,tidak berhasil,66.0,83,70,63,94.9,0,Berisiko
+260409,Macca 6,tidak berhasil,70.5,73,70,74,100.0,2,Sedang
+260247,Macca 3,tidak berhasil,74.0,70,64,66,97.96,0,Berisiko
+260298,Macca 8,berhasil,72.25,96,70,79,96.94,2,Sedang
+260193,Macca 1,berhasil,79.25,87,72,89,97.96,2,Sedang
+260195,Macca 3,berhasil,95.25,99,89,89,95.92,1,Berhasil
+260313,Macca 4,berhasil,72.25,75,72,77,98.98,2,Sedang
+240026,Mallempu 7,tidak berhasil,67.25,79,84,65,95.92,2,Sedang
+240028,Mallempu 4,tidak berhasil,67.5,71,71,75,97.96,0,Berisiko
+260241,Macca 5,berhasil,85.75,85,84,85,90.82,1,Berhasil
+250121,Mattinulu 7,berhasil,69.5,75,86,83,93.88,2,Sedang
+260301,Macca 6,tidak berhasil,66.25,65,62,66,95.92,0,Berisiko
+250118,Mattinulu 6,berhasil,88.5,88,82,83,92.86,1,Berhasil
+250178,Mattinulu 8,berhasil,76.25,74,86,75,92.86,2,Sedang
+240078,Mallempu 6,berhasil,73.0,85,66,76,96.94,2,Sedang
+260140,Macca 2,berhasil,85.5,98,89,83,97.96,1,Berhasil
+260181,Macca 7,tidak berhasil,58.5,65,59,66,96.94,0,Berisiko
+260056,Macca 4,berhasil,76.5,91,67,84,93.88,2,Sedang
+250266,Mattinulu 6,tidak berhasil,53.25,63,54,63,96.94,0,Berisiko
+260008,Macca 2,tidak berhasil,67.25,75,59,77,91.84,0,Berisiko
+250149,Mattinulu 2,berhasil,74.75,82,73,81,94.9,2,Sedang
+260332,Macca 8,berhasil,73.75,80,88,77,96.94,2,Sedang
+250011,Mattinulu 3,tidak berhasil,81.25,85,74,72,82.65,2,Sedang
+260335,Macca 3,berhasil,94.5,95,96,93,100.0,1,Berhasil
+250158,Mattinulu 6,berhasil,72.0,87,81,79,95.92,2,Sedang
+240255,Mallempu 5,tidak berhasil,59.5,73,50,59,96.94,0,Berisiko
+240165,Mallempu 5,tidak berhasil,67.75,81,67,68,92.86,0,Berisiko
+240066,Mallempu 4,berhasil,86.0,90,77,99,94.9,1,Berhasil
+240320,Mallempu 4,tidak berhasil,63.5,60,69,64,93.88,0,Berisiko
+250221,Mattinulu 4,berhasil,78.75,85,74,73,97.96,2,Sedang
+260271,Macca 8,berhasil,74.25,75,80,75,96.94,2,Sedang
+260292,Macca 2,tidak berhasil,68.25,75,76,60,96.94,0,Berisiko
+240170,Mallempu 3,tidak berhasil,68.0,80,59,65,94.9,0,Berisiko
+260164,Macca 3,tidak berhasil,61.5,67,65,48,95.92,0,Berisiko
+250127,Mattinulu 2,berhasil,87.75,95,69,57,97.96,2,Sedang
+260052,Macca 1,berhasil,73.25,75,74,84,94.9,2,Sedang
+240272,Mallempu 1,berhasil,71.75,89,84,61,96.94,2,Sedang
+250339,Mattinulu 7,berhasil,88.75,92,84,87,97.96,1,Berhasil
+260299,Macca 7,berhasil,81.25,80,87,87,97.96,1,Berhasil
+250081,Mattinulu 5,berhasil,73.75,85,73,58,96.94,2,Sedang
+250326,Mattinulu 3,berhasil,78.5,97,73,70,96.94,2,Sedang
+260312,Macca 9,tidak berhasil,63.5,70,64,64,94.9,0,Berisiko
+250057,Mattinulu 2,berhasil,81.5,84,76,81,97.96,2,Sedang
+240070,Mallempu 6,berhasil,79.0,80,82,81,95.92,2,Sedang
+240023,Mallempu 7,berhasil,80.25,75,80,73,97.96,2,Sedang
+240240,Mallempu 5,tidak berhasil,71.75,67,63,62,96.94,0,Berisiko
+250189,Mattinulu 7,berhasil,88.0,96,76,82,95.92,1,Berhasil
+260081,Macca 4,tidak berhasil,65.75,80,72,60,92.86,0,Berisiko
+260036,Macca 5,berhasil,82.0,95,95,88,98.98,1,Berhasil
+240319,Mallempu 6,berhasil,83.75,86,75,74,96.94,2,Sedang
+250336,Mattinulu 8,berhasil,74.0,86,75,65,93.88,2,Sedang
+250032,Mattinulu 8,tidak berhasil,73.25,83,52,79,93.88,2,Sedang
+240015,Mallempu 6,berhasil,81.75,85,90,70,100.0,2,Sedang
+260370,Macca 5,berhasil,84.75,87,83,71,92.86,2,Sedang
+260068,Macca 9,tidak berhasil,64.0,56,70,45,95.92,0,Berisiko
+250169,Mattinulu 6,tidak berhasil,56.75,68,76,63,94.9,0,Berisiko
+250070,Mattinulu 5,tidak berhasil,74.25,65,82,78,91.84,2,Sedang
+250273,Mattinulu 7,tidak berhasil,75.5,75,55,77,98.98,0,Berisiko
+260274,Macca 3,berhasil,92.0,95,95,93,96.94,1,Berhasil
+260183,Macca 1,berhasil,82.75,90,79,85,96.94,1,Berhasil
+260291,Macca 1,tidak berhasil,70.0,70,66,63,93.88,0,Berisiko
+250271,Mattinulu 4,berhasil,77.5,88,69,83,95.92,2,Sedang
+240283,Mallempu 3,berhasil,70.75,85,76,82,95.92,2,Sedang
+250050,Mattinulu 3,berhasil,77.0,80,81,71,94.9,2,Sedang
+260234,Macca 6,berhasil,78.0,80,75,80,91.84,2,Sedang
+260104,Macca 6,tidak berhasil,71.5,64,61,63,85.71,0,Berisiko
+240027,Mallempu 3,tidak berhasil,70.5,81,59,72,98.98,2,Sedang
+260350,Macca 5,berhasil,76.0,90,83,79,95.92,2,Sedang
+240310,Mallempu 4,tidak berhasil,70.0,80,77,51,94.9,0,Berisiko
+260029,Macca 6,berhasil,82.0,79,60,69,94.9,2,Sedang
+260061,Macca 5,berhasil,94.0,100,100,97,96.94,1,Berhasil
+240300,Mallempu 2,tidak berhasil,82.75,89,66,62,97.96,2,Sedang
+250100,Mattinulu 6,berhasil,80.0,88,95,95,94.9,1,Berhasil
+240158,Mallempu 1,berhasil,84.5,85,77,82,96.94,2,Sedang
+260005,Macca 7,berhasil,77.25,82,72,70,97.96,2,Sedang
+240049,Mallempu 4,berhasil,72.5,85,72,82,93.88,2,Sedang
+250360,Mattinulu 6,berhasil,79.0,78,94,89,94.9,1,Berhasil
+240270,Mallempu 2,berhasil,79.75,94,89,89,95.92,1,Berhasil
+240206,Mallempu 4,tidak berhasil,81.0,83,77,59,89.8,2,Sedang
+250079,Mattinulu 5,berhasil,73.5,82,72,60,97.96,2,Sedang
+250062,Mattinulu 7,tidak berhasil,74.25,70,64,68,94.9,0,Berisiko
+250035,Mattinulu 2,tidak berhasil,68.25,85,76,60,92.86,2,Sedang
+260082,Macca 5,berhasil,72.75,83,75,76,98.98,2,Sedang
+250022,Mattinulu 7,tidak berhasil,70.75,71,68,68,96.94,0,Berisiko
+250030,Mattinulu 3,berhasil,83.0,93,91,80,98.98,1,Berhasil
+260113,Macca 4,berhasil,86.5,93,94,86,93.88,1,Berhasil
+260286,Macca 7,berhasil,77.0,79,85,71,92.86,2,Sedang
+260034,Macca 8,berhasil,88.25,80,87,79,92.86,2,Sedang
+260245,Macca 7,berhasil,73.0,75,87,70,95.92,2,Sedang
+250353,Mattinulu 4,tidak berhasil,67.5,78,62,59,95.92,0,Berisiko
+260065,Macca 2,berhasil,70.75,80,88,59,95.92,2,Sedang
+240133,Mallempu 5,tidak berhasil,68.75,85,60,78,91.84,2,Sedang
+250125,Mattinulu 4,tidak berhasil,75.25,75,69,54,96.94,0,Berisiko
+240149,Mallempu 4,berhasil,87.0,100,76,83,98.98,1,Berhasil
+260375,Macca 4,berhasil,77.75,85,79,70,96.94,2,Sedang
+240055,Mallempu 2,berhasil,85.75,92,77,78,98.98,1,Berhasil
+250352,Mattinulu 8,berhasil,72.5,87,72,70,95.92,2,Sedang
+250308,Mattinulu 8,tidak berhasil,76.75,85,60,66,93.88,2,Sedang
+260051,Macca 4,tidak berhasil,77.25,75,75,61,91.84,0,Berisiko
+260111,Macca 8,berhasil,81.0,80,79,76,95.92,2,Sedang
+240031,Mallempu 2,berhasil,79.5,83,76,65,93.88,2,Sedang
+260294,Macca 1,berhasil,80.25,83,83,76,85.71,2,Sedang
+240127,Mallempu 6,berhasil,79.5,77,74,73,96.94,2,Sedang
+250237,Mattinulu 5,tidak berhasil,75.0,80,65,66,97.96,2,Sedang
+260411,Macca 2,berhasil,76.75,90,82,82,98.98,1,Berhasil
+240260,Mallempu 5,berhasil,74.75,83,83,75,97.96,2,Sedang
+240268,Mallempu 2,tidak berhasil,68.0,80,63,67,94.9,0,Berisiko
+260141,Macca 8,berhasil,78.5,80,77,78,96.94,2,Sedang
+260386,Macca 2,tidak berhasil,67.5,85,62,74,95.92,2,Sedang
+240280,Mallempu 7,berhasil,82.25,75,87,74,96.94,2,Sedang
+260204,Macca 3,berhasil,79.75,97,93,75,86.73,1,Berhasil
+240214,Mallempu 6,berhasil,76.25,80,90,88,96.94,1,Berhasil
+250253,Mattinulu 4,tidak berhasil,76.25,83,71,76,87.76,2,Sedang
+260414,Macca 2,tidak berhasil,69.0,75,66,61,94.9,0,Berisiko
+240108,Mallempu 2,berhasil,75.5,76,86,70,100.0,2,Sedang
+240060,Mallempu 1,tidak berhasil,79.5,79,73,61,95.92,2,Sedang
+250215,Mattinulu 2,tidak berhasil,76.75,75,56,60,95.92,0,Berisiko
+250224,Mattinulu 7,berhasil,85.5,100,92,95,96.94,1,Berhasil
+250045,Mattinulu 1,tidak berhasil,72.5,75,73,64,96.94,0,Berisiko
+250106,Mattinulu 2,tidak berhasil,72.25,78,73,59,94.9,0,Berisiko
+240128,Mallempu 3,berhasil,85.0,100,92,87,92.86,1,Berhasil
+240201,Mallempu 6,berhasil,84.5,88,90,100,96.94,1,Berhasil
+260254,Macca 2,berhasil,84.0,75,91,91,96.94,1,Berhasil
+240291,Mallempu 5,berhasil,75.5,100,80,81,96.94,1,Berhasil
+260205,Macca 2,tidak berhasil,61.5,70,60,60,96.94,0,Berisiko
+250230,Mattinulu 2,tidak berhasil,60.25,64,45,65,94.9,0,Berisiko
+250098,Mattinulu 3,berhasil,74.75,80,71,77,93.88,2,Sedang
+250104,Mattinulu 1,tidak berhasil,75.5,77,80,60,92.86,2,Sedang
+260253,Macca 1,berhasil,91.75,98,97,85,94.9,1,Berhasil
+260012,Macca 1,berhasil,79.5,95,78,77,96.94,1,Berhasil
+240121,Mallempu 4,berhasil,79.75,80,72,72,94.9,2,Sedang
+250023,Mattinulu 2,berhasil,68.25,78,68,84,93.88,2,Sedang
+260275,Macca 8,berhasil,88.25,95,97,86,97.96,1,Berhasil
+240150,Mallempu 2,berhasil,76.25,87,80,83,96.94,2,Sedang
+240228,Mallempu 2,berhasil,79.5,85,72,95,94.9,1,Berhasil
+240130,Mallempu 1,berhasil,88.0,95,90,83,94.9,1,Berhasil
+240059,Mallempu 1,tidak berhasil,66.5,68,45,49,92.86,0,Berisiko
+250088,Mattinulu 3,tidak berhasil,77.25,83,72,54,96.94,2,Sedang
+240054,Mallempu 2,berhasil,86.0,100,100,100,97.96,1,Berhasil
+260209,Macca 6,berhasil,73.5,77,70,81,94.9,2,Sedang
+250295,Mattinulu 6,berhasil,83.75,91,84,92,94.9,1,Berhasil
+260188,Macca 2,tidak berhasil,61.75,65,54,49,94.9,0,Berisiko
+240135,Mallempu 2,berhasil,79.5,95,89,78,96.94,1,Berhasil
+250041,Mattinulu 3,berhasil,80.5,78,83,70,95.92,2,Sedang
+240306,Mallempu 4,berhasil,87.0,77,77,76,97.96,2,Sedang
+240279,Mallempu 4,berhasil,75.25,80,74,86,94.9,2,Sedang
+250103,Mattinulu 6,berhasil,65.25,95,80,74,94.9,2,Sedang
+260252,Macca 2,tidak berhasil,69.75,76,61,65,90.82,0,Berisiko
+260045,Macca 5,berhasil,73.75,85,78,84,92.86,2,Sedang
+260055,Macca 8,tidak berhasil,72.5,89,76,75,87.76,2,Sedang
+240069,Mallempu 2,tidak berhasil,58.0,73,71,74,91.84,0,Berisiko
+250329,Mattinulu 8,berhasil,76.75,87,68,96,96.94,2,Sedang
+260360,Macca 1,tidak berhasil,79.75,75,72,51,92.86,0,Berisiko
+250150,Mattinulu 4,berhasil,91.25,100,86,100,96.94,1,Berhasil
+250291,Mattinulu 1,tidak berhasil,72.75,73,72,49,95.92,0,Berisiko
+250018,Mattinulu 7,berhasil,80.5,89,86,70,95.92,2,Sedang
+260310,Macca 9,berhasil,67.75,77,76,73,96.94,2,Sedang
+240011,Mallempu 7,berhasil,89.0,82,98,91,97.96,1,Berhasil
+260330,Macca 3,tidak berhasil,75.25,75,60,70,91.84,0,Berisiko
+250084,Mattinulu 2,berhasil,86.0,91,80,68,95.92,2,Sedang
+250341,Mattinulu 8,berhasil,87.0,85,71,71,96.94,2,Sedang
+260063,Macca 3,berhasil,67.75,65,67,74,96.94,0,Berisiko
+250047,Mattinulu 3,berhasil,74.25,85,78,84,92.86,2,Sedang
+250053,Mattinulu 5,tidak berhasil,64.75,73,57,68,94.9,0,Berisiko
+260260,Macca 6,berhasil,83.0,85,79,70,97.96,2,Sedang
+240276,Mallempu 1,berhasil,78.75,77,85,77,92.86,2,Sedang
+250220,Mattinulu 1,berhasil,78.25,85,80,84,95.92,2,Sedang
+250364,Mattinulu 1,berhasil,68.5,90,65,73,95.92,2,Sedang
+250142,Mattinulu 8,tidak berhasil,60.0,69,56,57,97.96,0,Berisiko
+250244,Mattinulu 1,berhasil,74.0,90,69,76,94.9,2,Sedang
+260048,Macca 3,tidak berhasil,74.5,85,74,66,95.92,2,Sedang
+250159,Mattinulu 7,berhasil,81.0,96,71,96,100.0,1,Berhasil
+250095,Mattinulu 8,berhasil,79.0,88,67,73,93.88,2,Sedang
+260156,Macca 6,tidak berhasil,68.75,78,71,63,98.98,0,Berisiko
+250128,Mattinulu 5,tidak berhasil,59.5,65,70,58,92.86,0,Berisiko
+250297,Mattinulu 1,berhasil,86.75,96,85,98,96.94,1,Berhasil
+260100,Macca 3,berhasil,71.75,82,87,74,97.96,2,Sedang
+240205,Mallempu 3,berhasil,81.25,86,78,64,95.92,2,Sedang
+240221,Mallempu 3,tidak berhasil,60.5,82,63,56,89.8,0,Berisiko
+260216,Macca 5,berhasil,75.5,77,72,71,98.98,2,Sedang
+250257,Mattinulu 2,berhasil,72.0,80,81,66,96.94,2,Sedang
+250144,Mattinulu 7,berhasil,82.75,81,74,90,98.98,2,Sedang
+250005,Mattinulu 6,tidak berhasil,74.0,75,68,73,92.86,2,Sedang
+260315,Macca 5,tidak berhasil,67.5,75,74,64,92.86,0,Berisiko
+250068,Mattinulu 5,berhasil,81.5,89,90,80,96.94,1,Berhasil
+250240,Mattinulu 1,berhasil,71.25,90,79,81,95.92,2,Sedang
+240184,Mallempu 5,berhasil,74.0,96,87,84,97.96,1,Berhasil
+260257,Macca 8,berhasil,78.75,84,79,78,97.96,2,Sedang
+250338,Mattinulu 5,berhasil,80.25,84,82,70,97.96,2,Sedang
+260060,Macca 4,berhasil,68.75,80,72,81,91.84,2,Sedang
+240215,Mallempu 1,tidak berhasil,64.5,58,72,66,92.86,0,Berisiko
+260408,Macca 6,berhasil,71.5,74,75,77,95.92,2,Sedang
+250135,Mattinulu 1,berhasil,97.25,94,100,88,96.94,1,Berhasil
+250323,Mattinulu 8,tidak berhasil,60.5,60,62,56,89.8,0,Berisiko
+240072,Mallempu 3,tidak berhasil,74.5,80,72,64,94.9,2,Sedang
+250196,Mattinulu 8,berhasil,75.75,79,80,64,96.94,2,Sedang
+260266,Macca 6,berhasil,69.75,85,62,73,95.92,2,Sedang
+260058,Macca 9,berhasil,76.5,90,67,94,100.0,1,Berhasil
+250316,Mattinulu 1,berhasil,78.75,80,85,70,96.94,2,Sedang
+240265,Mallempu 7,berhasil,75.25,72,73,81,94.9,2,Sedang
+240167,Mallempu 3,berhasil,71.75,72,76,69,97.96,2,Sedang
+240147,Mallempu 7,tidak berhasil,59.75,60,76,61,87.76,0,Berisiko
+250091,Mattinulu 2,berhasil,74.75,80,91,76,97.96,2,Sedang
+240096,Mallempu 7,berhasil,72.5,77,78,74,98.98,2,Sedang
+240134,Mallempu 7,berhasil,82.5,85,83,75,92.86,2,Sedang
+260086,Macca 7,berhasil,77.25,84,75,90,93.88,2,Sedang
+250192,Mattinulu 8,tidak berhasil,73.25,75,56,74,97.96,0,Berisiko
+250343,Mattinulu 5,tidak berhasil,72.5,76,76,61,91.84,0,Berisiko
+260388,Macca 6,berhasil,82.5,87,87,89,97.96,1,Berhasil
+260340,Macca 9,tidak berhasil,70.75,65,68,75,92.86,0,Berisiko
+250284,Mattinulu 4,tidak berhasil,76.0,84,75,61,97.96,2,Sedang
+240144,Mallempu 4,tidak berhasil,72.25,76,66,75,96.94,2,Sedang
+260300,Macca 7,berhasil,83.0,80,82,72,91.84,2,Sedang
+250227,Mattinulu 6,berhasil,69.0,75,72,70,98.98,2,Sedang
+250317,Mattinulu 6,berhasil,70.75,80,84,73,91.84,2,Sedang
+260002,Macca 9,tidak berhasil,69.25,75,72,62,96.94,0,Berisiko
+250207,Mattinulu 4,berhasil,87.0,100,97,95,94.9,1,Berhasil
+250160,Mattinulu 3,berhasil,95.5,95,83,83,90.82,1,Berhasil
+240073,Mallempu 4,tidak berhasil,68.5,75,78,77,93.88,2,Sedang
+240129,Mallempu 2,berhasil,77.5,84,70,71,96.94,2,Sedang
+250003,Mattinulu 1,berhasil,81.0,93,62,90,95.92,1,Berhasil
+260394,Macca 1,berhasil,71.5,79,72,76,96.94,2,Sedang
+250328,Mattinulu 7,tidak berhasil,62.25,69,50,69,94.9,0,Berisiko
+250321,Mattinulu 6,tidak berhasil,58.5,75,62,59,96.94,0,Berisiko
+240249,Mallempu 6,tidak berhasil,72.25,80,68,71,93.88,2,Sedang
+260152,Macca 1,berhasil,68.5,78,86,78,96.94,2,Sedang
+250066,Mattinulu 4,tidak berhasil,75.5,89,63,69,96.94,2,Sedang
+240100,Mallempu 2,berhasil,77.5,78,92,79,93.88,2,Sedang
+250190,Mattinulu 6,berhasil,84.5,90,87,66,95.92,2,Sedang
+260174,Macca 3,tidak berhasil,73.25,81,70,68,93.88,2,Sedang
+250151,Mattinulu 1,berhasil,76.75,79,82,82,97.96,2,Sedang
+260035,Macca 3,berhasil,79.25,95,63,81,96.94,2,Sedang
+240190,Mallempu 2,berhasil,83.5,95,85,81,96.94,1,Berhasil
+240294,Mallempu 5,berhasil,70.5,70,73,83,91.84,2,Sedang
+260074,Macca 6,tidak berhasil,65.25,80,68,56,94.9,0,Berisiko
+260132,Macca 5,berhasil,78.75,100,89,77,96.94,1,Berhasil
+250014,Mattinulu 7,tidak berhasil,63.5,67,70,68,94.9,0,Berisiko
+240014,Mallempu 2,berhasil,82.5,90,80,83,97.96,1,Berhasil
+260344,Macca 6,tidak berhasil,73.0,75,71,67,97.96,2,Sedang
+250129,Mattinulu 2,tidak berhasil,69.5,74,80,70,96.94,2,Sedang
+250355,Mattinulu 6,berhasil,74.5,75,92,79,91.84,2,Sedang
+250250,Mattinulu 1,berhasil,71.75,80,87,75,95.92,2,Sedang
+260103,Macca 2,berhasil,76.75,80,78,65,92.86,2,Sedang
+250233,Mattinulu 4,tidak berhasil,62.25,77,69,55,98.98,0,Berisiko
+260281,Macca 9,berhasil,75.75,82,79,90,92.86,2,Sedang
+260148,Macca 5,berhasil,75.5,75,67,77,97.96,2,Sedang
+250130,Mattinulu 7,berhasil,80.75,89,76,79,95.92,2,Sedang
+240233,Mallempu 5,berhasil,77.75,80,64,82,98.98,2,Sedang
+240047,Mallempu 5,tidak berhasil,60.5,71,62,64,96.94,0,Berisiko
+260263,Macca 5,tidak berhasil,66.75,65,64,66,93.88,0,Berisiko
+250046,Mattinulu 6,tidak berhasil,61.75,64,53,59,96.94,0,Berisiko
+250092,Mattinulu 5,tidak berhasil,63.25,66,66,50,91.84,0,Berisiko
+250024,Mattinulu 8,berhasil,83.75,90,82,80,93.88,1,Berhasil
+240295,Mallempu 4,berhasil,71.25,88,78,70,97.96,2,Sedang
+240012,Mallempu 1,tidak berhasil,61.25,63,73,73,90.82,0,Berisiko
+240292,Mallempu 3,berhasil,85.0,85,93,85,95.92,1,Berhasil
+260277,Macca 6,berhasil,84.5,100,86,91,98.98,1,Berhasil
+240192,Mallempu 4,tidak berhasil,64.0,57,72,71,97.96,0,Berisiko
+240125,Mallempu 7,berhasil,78.25,75,70,75,93.88,2,Sedang
+240259,Mallempu 3,berhasil,74.75,82,88,79,95.92,2,Sedang
+260120,Macca 9,berhasil,72.75,85,66,75,93.88,2,Sedang
+250049,Mattinulu 1,berhasil,88.0,100,84,97,93.88,1,Berhasil
+260220,Macca 1,berhasil,89.75,100,92,83,97.96,1,Berhasil
+250124,Mattinulu 4,tidak berhasil,63.0,60,55,68,97.96,0,Berisiko
+260215,Macca 6,berhasil,78.5,91,68,82,91.84,2,Sedang
+250065,Mattinulu 2,berhasil,73.75,70,80,78,95.92,2,Sedang
+260123,Macca 3,berhasil,70.0,70,75,84,96.94,2,Sedang
+260038,Macca 9,tidak berhasil,63.75,70,69,60,94.9,0,Berisiko
+260402,Macca 7,berhasil,80.75,87,82,73,94.9,2,Sedang
+250267,Mattinulu 8,berhasil,76.25,86,80,57,96.94,2,Sedang
+260326,Macca 9,berhasil,75.5,90,69,76,91.84,2,Sedang
+240301,Mallempu 6,berhasil,85.5,85,88,79,98.98,1,Berhasil
+260358,Macca 4,tidak berhasil,66.75,67,72,68,96.94,0,Berisiko
+250171,Mattinulu 6,berhasil,73.75,85,87,85,96.94,1,Berhasil
+250099,Mattinulu 8,tidak berhasil,74.75,71,74,63,95.92,0,Berisiko
+260211,Macca 8,berhasil,78.75,80,82,75,97.96,2,Sedang
+260080,Macca 2,tidak berhasil,54.0,68,66,63,92.86,0,Berisiko
+240103,Mallempu 7,tidak berhasil,67.25,62,69,69,91.84,0,Berisiko
+250078,Mattinulu 6,berhasil,80.0,95,77,81,96.94,1,Berhasil
+240082,Mallempu 1,berhasil,91.5,90,92,91,96.94,1,Berhasil
+250212,Mattinulu 8,berhasil,77.75,85,86,81,95.92,2,Sedang
+260084,Macca 3,tidak berhasil,67.75,79,75,60,98.98,0,Berisiko
+240155,Mallempu 2,berhasil,76.75,84,89,70,97.96,2,Sedang
+260201,Macca 6,berhasil,77.25,75,84,88,91.84,2,Sedang
+240241,Mallempu 7,berhasil,79.75,90,65,80,97.96,2,Sedang
+260199,Macca 7,tidak berhasil,67.0,75,63,71,90.82,0,Berisiko
+250241,Mattinulu 8,berhasil,73.25,70,72,86,97.96,2,Sedang
+260376,Macca 8,tidak berhasil,76.75,61,63,58,93.88,0,Berisiko
+250061,Mattinulu 7,berhasil,76.25,80,72,71,94.9,2,Sedang
+250255,Mattinulu 3,berhasil,77.0,87,81,71,96.94,2,Sedang
+260329,Macca 9,tidak berhasil,72.25,69,55,76,92.86,0,Berisiko
+240212,Mallempu 3,tidak berhasil,69.0,81,59,73,98.98,0,Berisiko
+250199,Mattinulu 3,berhasil,80.5,95,83,71,96.94,1,Berhasil
+240126,Mallempu 3,tidak berhasil,74.25,68,74,70,93.88,0,Berisiko
+260020,Macca 1,berhasil,90.0,88,83,95,94.9,1,Berhasil
+250249,Mattinulu 7,berhasil,82.25,90,68,77,96.94,2,Sedang
+240119,Mallempu 1,tidak berhasil,62.75,75,61,83,100.0,0,Berisiko
+260393,Macca 8,tidak berhasil,68.5,80,68,70,94.9,2,Sedang
+240010,Mallempu 5,berhasil,79.25,85,82,68,96.94,2,Sedang
+240246,Mallempu 7,tidak berhasil,64.5,75,64,57,93.88,0,Berisiko
+260341,Macca 3,berhasil,78.5,100,99,84,96.94,1,Berhasil
+240189,Mallempu 5,berhasil,77.5,76,73,74,93.88,2,Sedang
+240117,Mallempu 2,berhasil,73.75,80,66,72,100.0,2,Sedang
+250258,Mattinulu 5,berhasil,78.25,84,75,80,96.94,2,Sedang
+260006,Macca 4,tidak berhasil,66.75,65,65,64,98.98,0,Berisiko
+250263,Mattinulu 1,tidak berhasil,75.0,76,79,61,82.65,0,Berisiko
+240187,Mallempu 1,tidak berhasil,57.75,76,65,65,94.9,0,Berisiko
+240156,Mallempu 4,tidak berhasil,70.75,85,69,64,96.94,2,Sedang
+260327,Macca 6,berhasil,87.5,91,94,97,96.94,1,Berhasil
+240303,Mallempu 3,tidak berhasil,62.0,61,58,57,93.88,0,Berisiko
+260355,Macca 9,berhasil,81.0,86,76,73,92.86,2,Sedang
+240143,Mallempu 4,berhasil,88.5,94,83,82,94.9,1,Berhasil
+240269,Mallempu 6,berhasil,81.75,77,70,88,94.9,2,Sedang
+260083,Macca 8,berhasil,84.0,90,97,93,95.92,1,Berhasil
+240040,Mallempu 6,tidak berhasil,63.75,80,64,58,91.84,0,Berisiko
+250096,Mattinulu 4,tidak berhasil,74.0,85,69,76,95.92,2,Sedang
+260382,Macca 5,tidak berhasil,68.25,75,53,73,94.9,0,Berisiko
+260285,Macca 4,tidak berhasil,68.25,77,45,70,97.96,0,Berisiko
+250238,Mattinulu 2,berhasil,81.25,89,73,72,94.9,2,Sedang
+250117,Mattinulu 5,berhasil,76.75,80,74,77,95.92,2,Sedang
+260339,Macca 3,berhasil,71.5,70,65,73,97.96,0,Berisiko
+260309,Macca 7,berhasil,74.25,73,74,77,96.94,2,Sedang
+240074,Mallempu 6,berhasil,77.75,85,78,85,98.98,2,Sedang
+250259,Mattinulu 8,tidak berhasil,65.0,78,69,57,96.94,0,Berisiko
+240088,Mallempu 3,berhasil,85.0,85,82,92,94.9,1,Berhasil
+250076,Mattinulu 1,berhasil,75.75,80,82,85,91.84,2,Sedang
+240238,Mallempu 5,berhasil,90.0,100,82,100,97.96,1,Berhasil
+240160,Mallempu 3,tidak berhasil,74.5,75,69,71,94.9,2,Sedang
+250327,Mattinulu 3,berhasil,78.75,88,80,83,93.88,2,Sedang
+260225,Macca 1,berhasil,76.25,83,66,72,95.92,2,Sedang
+260178,Macca 4,berhasil,77.75,90,98,80,92.86,1,Berhasil
+260405,Macca 7,berhasil,72.25,80,68,74,94.9,2,Sedang
+240157,Mallempu 6,tidak berhasil,75.25,83,82,58,96.94,2,Sedang
+250358,Mattinulu 2,tidak berhasil,71.0,78,81,57,98.98,2,Sedang
+240138,Mallempu 2,berhasil,87.0,95,83,90,96.94,1,Berhasil
+250310,Mattinulu 5,berhasil,76.0,81,72,69,98.98,2,Sedang
+240181,Mallempu 6,berhasil,75.25,87,77,81,95.92,2,Sedang
+260187,Macca 7,berhasil,80.5,85,88,71,96.94,2,Sedang
+240016,Mallempu 2,berhasil,79.5,75,80,79,96.94,2,Sedang
+260149,Macca 2,tidak berhasil,61.0,65,73,70,90.82,0,Berisiko
+250170,Mattinulu 4,berhasil,79.5,69,74,67,90.82,0,Berisiko
+260357,Macca 2,tidak berhasil,74.75,80,81,62,90.82,2,Sedang
+260185,Macca 9,berhasil,83.5,80,93,73,94.9,2,Sedang
+240037,Mallempu 3,berhasil,85.0,100,79,82,97.96,1,Berhasil
+260366,Macca 3,tidak berhasil,65.25,65,58,75,97.96,0,Berisiko
+250136,Mattinulu 1,berhasil,75.5,78,84,65,96.94,2,Sedang
+250182,Mattinulu 3,tidak berhasil,71.5,68,75,75,93.88,0,Berisiko
+240145,Mallempu 1,tidak berhasil,70.25,80,67,55,95.92,0,Berisiko
+260189,Macca 5,berhasil,78.5,88,78,72,98.98,2,Sedang
+260378,Macca 5,berhasil,80.0,88,99,60,94.9,2,Sedang
+260108,Macca 4,berhasil,83.75,95,90,90,94.9,1,Berhasil
+250337,Mattinulu 8,berhasil,87.0,95,94,78,93.88,1,Berhasil
+260243,Macca 4,berhasil,74.25,77,71,91,95.92,2,Sedang
+260317,Macca 6,tidak berhasil,68.75,74,59,57,81.63,0,Berisiko
+250281,Mattinulu 4,berhasil,80.0,89,77,70,93.88,2,Sedang
+240064,Mallempu 4,berhasil,84.25,100,81,85,97.96,1,Berhasil
+250309,Mattinulu 8,berhasil,86.0,89,85,77,92.86,1,Berhasil
+250183,Mattinulu 2,berhasil,75.0,85,74,77,95.92,2,Sedang
+250186,Mattinulu 2,berhasil,76.25,75,70,87,95.92,2,Sedang
+250167,Mattinulu 3,berhasil,70.0,78,89,97,94.9,2,Sedang
+260284,Macca 4,berhasil,92.0,100,97,87,96.94,1,Berhasil
+260018,Macca 4,tidak berhasil,69.5,65,77,76,95.92,0,Berisiko
+250173,Mattinulu 6,tidak berhasil,68.5,69,70,62,97.96,0,Berisiko
+260037,Macca 1,berhasil,76.5,87,86,76,88.78,2,Sedang
+260226,Macca 9,tidak berhasil,71.0,72,64,64,97.96,0,Berisiko
+250324,Mattinulu 5,tidak berhasil,65.5,72,68,75,94.9,0,Berisiko
+250218,Mattinulu 7,berhasil,85.25,82,79,81,94.9,2,Sedang
+240197,Mallempu 4,berhasil,83.75,87,70,69,98.98,2,Sedang
+250262,Mattinulu 5,berhasil,75.25,85,78,61,89.8,2,Sedang
+240299,Mallempu 4,tidak berhasil,65.25,75,58,55,94.9,0,Berisiko
+260342,Macca 1,berhasil,82.5,93,84,79,96.94,1,Berhasil
+260302,Macca 7,berhasil,78.5,93,81,80,97.96,1,Berhasil
+240274,Mallempu 2,berhasil,73.75,85,70,86,95.92,2,Sedang
+260072,Macca 8,berhasil,76.25,76,74,69,94.9,2,Sedang
+260059,Macca 2,berhasil,78.0,68,70,87,96.94,2,Sedang
+260233,Macca 6,berhasil,83.25,100,94,84,89.8,1,Berhasil
+240094,Mallempu 2,berhasil,86.75,95,89,97,90.82,1,Berhasil
+240159,Mallempu 2,tidak berhasil,70.5,75,74,60,93.88,0,Berisiko
+240308,Mallempu 4,berhasil,82.5,95,80,94,96.94,1,Berhasil
+260091,Macca 9,berhasil,80.5,86,65,87,95.92,2,Sedang
+250064,Mattinulu 6,tidak berhasil,71.75,75,69,63,93.88,0,Berisiko
+250191,Mattinulu 6,berhasil,78.75,80,82,78,100.0,2,Sedang
+260186,Macca 5,berhasil,81.25,80,72,71,93.88,2,Sedang
+260307,Macca 4,tidak berhasil,61.25,81,76,66,98.98,2,Sedang
+240211,Mallempu 5,berhasil,76.0,84,71,84,96.94,2,Sedang
+240287,Mallempu 5,tidak berhasil,76.75,80,58,73,97.96,2,Sedang
+250301,Mattinulu 4,berhasil,91.5,92,86,79,97.96,1,Berhasil
+240048,Mallempu 5,berhasil,71.0,85,84,72,96.94,2,Sedang
+260258,Macca 1,berhasil,74.5,85,75,77,91.84,2,Sedang
+240264,Mallempu 4,berhasil,76.25,70,79,68,92.86,2,Sedang
+240172,Mallempu 4,berhasil,76.5,81,79,69,98.98,2,Sedang
+250261,Mattinulu 2,berhasil,74.0,80,74,81,96.94,2,Sedang
+240229,Mallempu 4,berhasil,89.0,90,100,87,97.96,1,Berhasil
+250072,Mattinulu 2,berhasil,83.75,95,81,83,95.92,1,Berhasil
+240164,Mallempu 4,berhasil,73.25,73,61,67,97.96,0,Berisiko
+260228,Macca 5,berhasil,78.0,86,85,67,93.88,2,Sedang
+260171,Macca 4,berhasil,86.75,86,94,87,96.94,1,Berhasil
+260351,Macca 5,tidak berhasil,58.0,65,45,57,89.8,0,Berisiko
+240092,Mallempu 5,tidak berhasil,58.25,61,67,50,91.84,0,Berisiko
+250307,Mattinulu 6,berhasil,81.75,83,65,75,98.98,2,Sedang
+260282,Macca 2,tidak berhasil,68.25,76,65,58,93.88,0,Berisiko
+250354,Mattinulu 2,berhasil,85.5,95,89,85,98.98,1,Berhasil
+260272,Macca 9,berhasil,71.5,85,72,82,100.0,2,Sedang
+240020,Mallempu 2,berhasil,82.25,90,86,76,96.94,1,Berhasil
+260398,Macca 4,berhasil,82.5,93,86,77,90.82,1,Berhasil
+260206,Macca 6,tidak berhasil,62.75,60,65,54,96.94,0,Berisiko
+240022,Mallempu 7,tidak berhasil,68.5,75,69,60,97.96,0,Berisiko
+250350,Mattinulu 6,berhasil,86.0,82,92,71,95.92,2,Sedang
+240056,Mallempu 7,tidak berhasil,63.25,70,62,64,97.96,0,Berisiko
+240271,Mallempu 1,tidak berhasil,66.0,75,65,80,98.98,2,Sedang
+260131,Macca 7,berhasil,88.25,95,91,94,97.96,1,Berhasil
+260207,Macca 7,berhasil,73.75,89,55,81,98.98,2,Sedang
+260192,Macca 5,tidak berhasil,72.25,70,75,79,92.86,2,Sedang
+240227,Mallempu 6,berhasil,79.75,70,70,73,94.9,2,Sedang
+250161,Mattinulu 1,berhasil,80.0,80,66,82,93.88,2,Sedang
+260256,Macca 5,berhasil,73.0,76,78,80,89.8,2,Sedang
+260416,Macca 3,berhasil,88.75,93,100,74,90.82,1,Berhasil
+250094,Mattinulu 7,tidak berhasil,64.25,70,58,73,95.92,0,Berisiko
+260249,Macca 7,tidak berhasil,67.25,80,75,58,93.88,0,Berisiko
+260244,Macca 7,tidak berhasil,63.0,61,58,71,95.92,0,Berisiko
+240285,Mallempu 6,berhasil,80.25,80,89,80,93.88,2,Sedang
+240196,Mallempu 7,berhasil,75.25,78,69,71,94.9,2,Sedang
+250042,Mattinulu 8,berhasil,74.5,80,73,80,96.94,2,Sedang
+240142,Mallempu 1,berhasil,75.5,81,83,76,97.96,2,Sedang
+240202,Mallempu 4,berhasil,75.0,75,77,64,95.92,2,Sedang
+260365,Macca 1,tidak berhasil,59.75,55,62,68,94.9,0,Berisiko
+240252,Mallempu 3,tidak berhasil,72.75,75,63,57,95.92,0,Berisiko
+260203,Macca 7,berhasil,81.0,85,73,82,92.86,2,Sedang
+250036,Mattinulu 2,berhasil,92.0,100,96,93,97.96,1,Berhasil
+250163,Mattinulu 1,berhasil,84.25,94,70,85,97.96,1,Berhasil
+260134,Macca 2,tidak berhasil,69.75,65,82,70,95.92,0,Berisiko
+240113,Mallempu 6,berhasil,83.25,92,83,60,98.98,2,Sedang
+240251,Mallempu 4,berhasil,72.25,75,83,75,97.96,2,Sedang
+260267,Macca 3,berhasil,82.0,96,74,73,96.94,1,Berhasil
+240114,Mallempu 4,tidak berhasil,73.0,70,73,79,95.92,2,Sedang
+260229,Macca 4,berhasil,67.5,85,76,65,98.98,2,Sedang
+250193,Mattinulu 3,tidak berhasil,75.5,73,71,71,91.84,2,Sedang
+240309,Mallempu 7,berhasil,93.25,95,89,80,96.94,1,Berhasil
+250213,Mattinulu 2,berhasil,82.75,80,83,88,98.98,1,Berhasil
+240298,Mallempu 1,tidak berhasil,65.75,73,70,61,96.94,0,Berisiko
+240293,Mallempu 2,berhasil,79.0,83,80,68,93.88,2,Sedang
+260389,Macca 3,tidak berhasil,70.25,71,76,74,94.9,2,Sedang
+250312,Mattinulu 3,berhasil,78.0,85,82,80,94.9,2,Sedang
+240071,Mallempu 1,berhasil,69.0,73,74,65,97.96,0,Berisiko
+260009,Macca 8,tidak berhasil,72.5,65,61,64,96.94,0,Berisiko
+260221,Macca 2,tidak berhasil,77.0,80,69,66,97.96,2,Sedang
+260092,Macca 9,berhasil,88.5,85,89,95,88.78,1,Berhasil
+260387,Macca 2,berhasil,75.25,90,91,85,97.96,1,Berhasil
+260090,Macca 5,berhasil,69.5,77,78,80,97.96,2,Sedang
+260023,Macca 8,tidak berhasil,77.25,75,72,74,94.9,2,Sedang
+260144,Macca 3,berhasil,87.25,83,94,72,97.96,1,Berhasil
+250116,Mattinulu 5,tidak berhasil,60.5,71,73,66,94.9,0,Berisiko
+240284,Mallempu 6,tidak berhasil,64.25,79,61,71,96.94,0,Berisiko
+240236,Mallempu 6,tidak berhasil,57.75,70,59,62,97.96,0,Berisiko
+260050,Macca 6,berhasil,81.25,93,65,78,95.92,2,Sedang
+260184,Macca 1,tidak berhasil,70.5,70,55,54,94.9,0,Berisiko
+240234,Mallempu 6,berhasil,92.75,100,83,86,95.92,1,Berhasil
+240002,Mallempu 6,berhasil,80.25,100,82,85,100.0,1,Berhasil
+250332,Mattinulu 3,berhasil,86.25,87,63,84,94.9,2,Sedang
+250299,Mattinulu 5,berhasil,81.5,90,69,98,94.9,1,Berhasil
+250147,Mattinulu 5,berhasil,71.5,85,70,85,90.82,2,Sedang
+250198,Mattinulu 6,berhasil,73.75,82,87,68,94.9,2,Sedang
+250019,Mattinulu 4,berhasil,94.5,100,87,91,97.96,1,Berhasil
+250016,Mattinulu 1,berhasil,74.75,70,81,77,96.94,2,Sedang
+240161,Mallempu 1,berhasil,79.5,83,88,85,98.98,1,Berhasil
+240132,Mallempu 5,berhasil,84.75,84,81,68,96.94,2,Sedang
+240288,Mallempu 1,tidak berhasil,70.75,68,69,60,91.84,0,Berisiko
+260419,Macca 1,berhasil,77.25,73,76,68,94.9,2,Sedang
+250346,Mattinulu 4,berhasil,76.0,79,73,92,95.92,2,Sedang
+260227,Macca 8,berhasil,85.25,84,83,57,98.98,2,Sedang
+260287,Macca 2,berhasil,88.0,91,90,73,96.94,1,Berhasil
+260076,Macca 3,tidak berhasil,70.0,71,53,72,93.88,0,Berisiko
+260047,Macca 2,berhasil,79.5,78,84,79,96.94,2,Sedang
+250319,Mattinulu 5,berhasil,77.0,92,79,72,96.94,2,Sedang
+260250,Macca 1,berhasil,73.75,85,64,74,96.94,2,Sedang
+250093,Mattinulu 1,tidak berhasil,77.25,73,77,68,96.94,2,Sedang
+240032,Mallempu 5,berhasil,78.75,81,66,74,92.86,2,Sedang
+250007,Mattinulu 2,tidak berhasil,72.25,73,68,72,90.82,0,Berisiko
+260331,Macca 7,tidak berhasil,62.25,75,71,57,90.82,0,Berisiko
+260015,Macca 1,tidak berhasil,77.25,83,75,71,94.9,2,Sedang
+250331,Mattinulu 4,berhasil,78.25,92,89,83,96.94,1,Berhasil
+260399,Macca 2,berhasil,74.75,70,73,77,96.94,2,Sedang
+260276,Macca 5,tidak berhasil,72.0,82,64,70,93.88,2,Sedang
+240057,Mallempu 4,berhasil,75.25,75,69,86,98.98,2,Sedang
+240019,Mallempu 3,berhasil,81.25,95,84,83,96.94,1,Berhasil
+260321,Macca 6,berhasil,79.25,85,91,72,95.92,2,Sedang
+250369,Mattinulu 3,tidak berhasil,71.0,80,65,77,94.9,2,Sedang
+250141,Mattinulu 5,berhasil,78.75,95,79,73,96.94,1,Berhasil
+240267,Mallempu 5,tidak berhasil,72.5,61,74,56,97.96,0,Berisiko
+240001,Mallempu 3,berhasil,71.25,90,75,75,93.88,2,Sedang
+250054,Mattinulu 6,berhasil,72.25,85,89,74,97.96,2,Sedang
+250148,Mattinulu 7,tidak berhasil,61.5,60,71,72,97.96,0,Berisiko
+240122,Mallempu 1,tidak berhasil,73.75,83,67,67,91.84,2,Sedang
+240226,Mallempu 3,berhasil,71.5,75,66,74,97.96,2,Sedang
+260395,Macca 4,berhasil,91.25,92,88,95,95.92,1,Berhasil
+240123,Mallempu 1,tidak berhasil,51.25,65,54,52,98.98,0,Berisiko
+250188,Mattinulu 4,berhasil,82.0,92,83,82,97.96,1,Berhasil
+260417,Macca 7,berhasil,70.25,72,79,80,95.92,2,Sedang
+240046,Mallempu 3,berhasil,77.0,85,75,78,92.86,2,Sedang
+260316,Macca 2,berhasil,94.75,100,90,94,98.98,1,Berhasil
+260021,Macca 1,berhasil,83.75,94,85,100,98.98,1,Berhasil
+260197,Macca 8,tidak berhasil,59.0,60,55,52,94.9,0,Berisiko
+250038,Mattinulu 7,berhasil,81.25,98,87,80,97.96,1,Berhasil
+240035,Mallempu 7,berhasil,78.75,75,72,69,96.94,2,Sedang
+260214,Macca 5,tidak berhasil,73.0,76,72,70,98.98,2,Sedang
+240083,Mallempu 7,berhasil,70.0,67,80,83,95.92,2,Sedang
+260346,Macca 7,berhasil,71.75,75,78,76,93.88,2,Sedang
+250131,Mattinulu 6,berhasil,76.5,75,90,81,95.92,2,Sedang
+260401,Macca 2,tidak berhasil,67.5,77,63,57,96.94,0,Berisiko
+260079,Macca 8,tidak berhasil,76.25,84,67,57,94.9,2,Sedang
+240154,Mallempu 5,berhasil,66.5,80,77,83,97.96,2,Sedang
+260049,Macca 2,berhasil,78.25,85,78,73,98.98,2,Sedang
+250311,Mattinulu 2,berhasil,74.5,80,67,92,95.92,2,Sedang
+240077,Mallempu 4,berhasil,78.0,96,66,80,94.9,2,Sedang
+250201,Mattinulu 4,berhasil,87.0,85,77,87,95.92,1,Berhasil
+240277,Mallempu 5,berhasil,80.25,80,83,81,95.92,2,Sedang
+240177,Mallempu 1,berhasil,85.75,95,96,71,86.73,1,Berhasil
+260166,Macca 7,tidak berhasil,67.5,60,58,69,88.78,0,Berisiko
+260403,Macca 2,berhasil,83.25,85,73,100,93.88,1,Berhasil
+250313,Mattinulu 4,berhasil,84.25,97,98,89,98.98,1,Berhasil
+240116,Mallempu 1,berhasil,84.5,89,85,77,97.96,1,Berhasil
+260338,Macca 4,tidak berhasil,75.75,70,66,65,95.92,0,Berisiko
+260176,Macca 4,berhasil,80.25,83,80,91,95.92,1,Berhasil
+240247,Mallempu 4,tidak berhasil,62.0,60,54,62,87.76,0,Berisiko
+260352,Macca 9,berhasil,79.0,84,72,89,97.96,2,Sedang
+260053,Macca 1,berhasil,81.75,90,91,95,96.94,1,Berhasil
+260169,Macca 8,berhasil,75.5,78,87,79,94.9,2,Sedang
+260114,Macca 1,berhasil,77.75,93,81,67,95.92,2,Sedang
+250060,Mattinulu 8,tidak berhasil,61.0,69,77,55,100.0,0,Berisiko
+250132,Mattinulu 3,tidak berhasil,60.5,55,49,64,93.88,0,Berisiko
+250027,Mattinulu 5,tidak berhasil,83.25,78,61,67,93.88,2,Sedang
+260097,Macca 7,tidak berhasil,67.25,80,75,76,86.73,2,Sedang
+260297,Macca 4,berhasil,78.5,89,80,90,95.92,1,Berhasil
+240296,Mallempu 3,berhasil,88.5,97,77,87,96.94,1,Berhasil
+260070,Macca 1,tidak berhasil,71.5,74,71,71,97.96,2,Sedang
+240076,Mallempu 4,berhasil,81.25,77,78,80,95.92,2,Sedang
+250044,Mattinulu 7,berhasil,75.0,87,70,82,94.9,2,Sedang
+250234,Mattinulu 7,berhasil,76.25,90,74,67,95.92,2,Sedang
+240278,Mallempu 7,tidak berhasil,62.5,70,79,50,97.96,0,Berisiko
+250287,Mattinulu 2,tidak berhasil,72.5,74,75,81,95.92,2,Sedang
+250270,Mattinulu 1,berhasil,68.75,80,86,80,94.9,2,Sedang
+260153,Macca 8,tidak berhasil,69.25,70,71,74,96.94,0,Berisiko
+240090,Mallempu 5,berhasil,73.0,73,78,80,100.0,2,Sedang
+240152,Mallempu 3,tidak berhasil,70.5,78,77,82,97.96,2,Sedang
+240148,Mallempu 7,berhasil,80.0,80,85,80,94.9,2,Sedang
+260410,Macca 2,tidak berhasil,72.0,79,69,68,96.94,2,Sedang
+240326,Mallempu 2,tidak berhasil,58.25,70,57,67,94.9,0,Berisiko
+250184,Mattinulu 3,tidak berhasil,69.75,73,79,64,94.9,0,Berisiko
+260230,Macca 6,berhasil,88.5,92,77,90,91.84,1,Berhasil
+260158,Macca 7,berhasil,75.75,79,83,83,95.92,2,Sedang
+240168,Mallempu 6,berhasil,70.5,86,86,69,96.94,2,Sedang
+250073,Mattinulu 2,berhasil,79.25,90,82,83,83.67,2,Sedang
+240312,Mallempu 2,tidak berhasil,62.25,70,60,63,95.92,0,Berisiko
+240198,Mallempu 4,berhasil,82.0,80,95,74,97.96,2,Sedang
+250177,Mattinulu 7,berhasil,79.5,90,83,78,97.96,1,Berhasil
+260270,Macca 9,tidak berhasil,65.75,71,71,69,94.9,0,Berisiko
+260242,Macca 8,tidak berhasil,84.5,73,70,70,95.92,2,Sedang
+240025,Mallempu 3,tidak berhasil,70.75,80,77,75,96.94,2,Sedang
+240174,Mallempu 5,tidak berhasil,67.5,75,54,73,86.73,0,Berisiko
+250074,Mattinulu 5,berhasil,86.75,84,72,80,90.82,2,Sedang
+250333,Mattinulu 2,tidak berhasil,66.25,74,47,56,95.92,0,Berisiko
+250115,Mattinulu 5,berhasil,85.0,94,96,80,95.92,1,Berhasil
+250292,Mattinulu 5,berhasil,83.5,87,81,92,94.9,1,Berhasil
+260236,Macca 9,berhasil,72.75,77,70,73,95.92,2,Sedang
+250219,Mattinulu 6,tidak berhasil,66.75,63,59,49,91.84,0,Berisiko
+250209,Mattinulu 7,berhasil,84.25,97,64,82,98.98,1,Berhasil
+260044,Macca 9,tidak berhasil,64.5,55,63,79,94.9,0,Berisiko
+260142,Macca 9,tidak berhasil,58.75,60,55,60,85.71,0,Berisiko
+260278,Macca 1,tidak berhasil,68.75,70,66,77,90.82,0,Berisiko
+240065,Mallempu 3,tidak berhasil,82.5,85,60,54,94.9,0,Berisiko
+250363,Mattinulu 5,berhasil,79.25,85,69,88,94.9,2,Sedang
+240237,Mallempu 6,berhasil,86.0,90,84,87,97.96,1,Berhasil
+250349,Mattinulu 6,tidak berhasil,67.5,65,63,62,90.82,0,Berisiko
+260096,Macca 6,berhasil,76.0,83,89,73,96.94,2,Sedang
+260359,Macca 3,tidak berhasil,64.25,80,58,56,96.94,0,Berisiko
+250140,Mattinulu 4,tidak berhasil,57.75,75,76,67,95.92,0,Berisiko
+260170,Macca 2,tidak berhasil,75.75,85,65,54,96.94,0,Berisiko
+250248,Mattinulu 7,tidak berhasil,65.25,73,52,59,96.94,0,Berisiko
+260239,Macca 6,berhasil,95.75,96,91,98,98.98,1,Berhasil
+250107,Mattinulu 8,berhasil,80.0,95,82,93,96.94,1,Berhasil
+250318,Mattinulu 6,berhasil,79.25,90,84,75,85.71,2,Sedang
+260032,Macca 3,tidak berhasil,70.0,68,85,66,92.86,0,Berisiko
+260262,Macca 9,berhasil,69.25,81,81,88,95.92,2,Sedang
+260380,Macca 9,berhasil,82.0,90,100,87,95.92,1,Berhasil
+250059,Mattinulu 4,berhasil,84.25,100,83,80,98.98,1,Berhasil
+260064,Macca 9,berhasil,84.5,82,83,89,98.98,1,Berhasil
+240068,Mallempu 7,tidak berhasil,66.25,83,53,62,97.96,0,Berisiko
+250162,Mattinulu 3,berhasil,75.25,85,89,80,97.96,2,Sedang
+250362,Mattinulu 6,berhasil,71.0,73,82,80,92.86,2,Sedang
+250242,Mattinulu 1,tidak berhasil,67.0,73,64,72,98.98,0,Berisiko
+250206,Mattinulu 3,tidak berhasil,74.0,69,66,82,94.9,2,Sedang
+260136,Macca 9,tidak berhasil,70.25,79,78,65,97.96,2,Sedang
+250272,Mattinulu 8,berhasil,76.75,88,70,76,95.92,2,Sedang
+260314,Macca 6,berhasil,81.0,83,86,80,98.98,1,Berhasil
+260265,Macca 2,tidak berhasil,67.25,72,61,74,86.73,0,Berisiko
+260133,Macca 2,berhasil,79.5,91,75,76,96.94,2,Sedang
+260273,Macca 4,berhasil,72.5,77,82,93,97.96,2,Sedang
+260154,Macca 9,tidak berhasil,70.75,55,58,70,89.8,0,Berisiko
+250286,Mattinulu 7,tidak berhasil,69.75,75,64,62,92.86,0,Berisiko
+240163,Mallempu 7,berhasil,81.0,82,84,80,96.94,2,Sedang
+240216,Mallempu 4,berhasil,73.5,71,80,81,97.96,2,Sedang
+250181,Mattinulu 4,tidak berhasil,69.25,75,67,73,96.94,0,Berisiko
+260231,Macca 4,berhasil,93.0,100,100,97,97.96,1,Berhasil
+250168,Mattinulu 1,berhasil,85.25,88,87,84,98.98,1,Berhasil
+260121,Macca 7,tidak berhasil,71.75,86,81,65,85.71,2,Sedang
+240017,Mallempu 3,tidak berhasil,71.25,71,73,66,94.9,0,Berisiko
+260027,Macca 2,berhasil,75.25,90,77,78,96.94,2,Sedang
+260160,Macca 1,tidak berhasil,63.5,62,57,68,91.84,0,Berisiko
+240315,Mallempu 1,tidak berhasil,74.75,76,73,76,93.88,2,Sedang
+260150,Macca 4,tidak berhasil,76.25,75,50,85,89.8,0,Berisiko
+250288,Mattinulu 1,berhasil,76.0,71,65,86,93.88,2,Sedang
+240235,Mallempu 3,berhasil,71.5,67,72,79,95.92,0,Berisiko
+250334,Mattinulu 1,tidak berhasil,71.75,69,71,59,91.84,0,Berisiko
+240062,Mallempu 6,tidak berhasil,82.25,72,72,75,89.8,2,Sedang
+240243,Mallempu 6,berhasil,72.25,90,71,72,96.94,2,Sedang
+240109,Mallempu 3,berhasil,82.75,95,88,92,97.96,1,Berhasil
+260196,Macca 9,berhasil,74.0,90,81,76,94.9,2,Sedang
+250229,Mattinulu 3,berhasil,93.25,96,84,92,96.94,1,Berhasil
+240258,Mallempu 4,berhasil,86.5,90,92,82,97.96,1,Berhasil
+240173,Mallempu 7,tidak berhasil,66.25,70,51,54,97.96,0,Berisiko
+260151,Macca 2,tidak berhasil,61.0,66,68,47,92.86,0,Berisiko
+250290,Mattinulu 6,berhasil,78.25,79,78,76,96.94,2,Sedang
+260323,Macca 8,berhasil,83.75,100,73,70,95.92,1,Berhasil
+250231,Mattinulu 6,berhasil,78.0,85,70,81,94.9,2,Sedang
+240140,Mallempu 2,berhasil,77.75,82,81,80,88.78,2,Sedang
+250236,Mattinulu 2,tidak berhasil,57.0,72,54,63,94.9,0,Berisiko
+250006,Mattinulu 5,berhasil,86.5,90,82,69,95.92,1,Berhasil
+250080,Mattinulu 2,tidak berhasil,77.5,73,77,74,94.9,2,Sedang
+260093,Macca 3,berhasil,71.25,75,76,70,92.86,2,Sedang
+260397,Macca 1,berhasil,85.0,83,84,76,95.92,2,Sedang
+250058,Mattinulu 5,berhasil,80.0,85,65,78,96.94,2,Sedang
+260384,Macca 7,berhasil,89.5,95,91,81,97.96,1,Berhasil
+260161,Macca 4,berhasil,75.25,93,86,60,98.98,2,Sedang
+260361,Macca 5,tidak berhasil,70.0,70,73,78,92.86,2,Sedang
+240242,Mallempu 1,berhasil,69.0,79,59,89,100.0,2,Sedang
+250368,Mattinulu 4,berhasil,75.0,79,83,82,96.94,2,Sedang
+250086,Mattinulu 7,berhasil,81.5,80,74,73,95.92,2,Sedang
+260400,Macca 6,tidak berhasil,59.25,65,60,60,91.84,0,Berisiko
+240244,Mallempu 5,berhasil,78.75,75,78,82,95.92,2,Sedang
+260077,Macca 5,berhasil,77.25,80,70,77,91.84,2,Sedang
+250102,Mattinulu 7,berhasil,71.25,75,72,74,94.9,2,Sedang
+240009,Mallempu 3,berhasil,76.0,76,67,75,96.94,2,Sedang
+260062,Macca 6,tidak berhasil,64.0,62,50,51,86.73,0,Berisiko
+250017,Mattinulu 5,berhasil,75.0,70,68,83,98.98,2,Sedang
+260073,Macca 1,berhasil,84.75,98,73,84,96.94,1,Berhasil
+240188,Mallempu 1,berhasil,73.75,92,75,78,95.92,2,Sedang
+260182,Macca 3,berhasil,74.5,84,86,67,95.92,2,Sedang
+260348,Macca 4,berhasil,84.0,95,95,81,96.94,1,Berhasil
+240169,Mallempu 2,berhasil,78.5,85,70,88,95.92,2,Sedang
+250089,Mattinulu 3,berhasil,75.0,90,78,64,95.92,2,Sedang
+250197,Mattinulu 5,tidak berhasil,60.75,82,65,68,98.98,0,Berisiko
+260283,Macca 4,tidak berhasil,56.25,66,54,57,96.94,0,Berisiko
+250029,Mattinulu 4,berhasil,91.75,90,82,92,91.84,1,Berhasil
+250361,Mattinulu 7,berhasil,78.0,79,80,84,97.96,2,Sedang
+240239,Mallempu 5,berhasil,70.75,80,81,79,96.94,2,Sedang
+250205,Mattinulu 5,tidak berhasil,68.75,75,82,70,96.94,2,Sedang
+240224,Mallempu 5,berhasil,85.75,73,86,80,95.92,2,Sedang
+250154,Mattinulu 5,berhasil,80.5,85,82,75,94.9,2,Sedang
+240098,Mallempu 4,berhasil,86.5,100,86,76,96.94,1,Berhasil
+250366,Mattinulu 8,tidak berhasil,64.0,66,75,75,95.92,0,Berisiko
+260105,Macca 1,tidak berhasil,60.25,74,75,55,95.92,0,Berisiko
+260016,Macca 7,berhasil,70.75,88,96,69,93.88,2,Sedang
+240102,Mallempu 6,berhasil,76.75,70,81,77,91.84,2,Sedang
+240084,Mallempu 1,tidak berhasil,81.5,75,69,65,93.88,2,Sedang
+260110,Macca 5,tidak berhasil,69.25,70,76,69,97.96,0,Berisiko
+240314,Mallempu 3,tidak berhasil,70.5,70,60,65,91.84,0,Berisiko
+250217,Mattinulu 1,tidak berhasil,66.25,75,63,66,95.92,0,Berisiko
+260007,Macca 5,berhasil,74.0,81,75,73,96.94,2,Sedang
+260191,Macca 7,tidak berhasil,66.25,75,64,64,86.73,0,Berisiko
+250010,Mattinulu 3,berhasil,73.0,70,86,92,93.88,2,Sedang
+260259,Macca 2,berhasil,80.75,85,84,82,98.98,1,Berhasil
+240124,Mallempu 7,tidak berhasil,58.5,66,64,54,98.98,0,Berisiko
+250156,Mattinulu 3,berhasil,69.25,75,74,81,98.98,2,Sedang
+260033,Macca 9,tidak berhasil,72.0,80,65,80,94.9,2,Sedang
+260101,Macca 3,berhasil,72.0,84,85,72,92.86,2,Sedang
+250152,Mattinulu 2,berhasil,80.5,85,76,74,93.88,2,Sedang
+240311,Mallempu 6,tidak berhasil,63.5,74,76,66,96.94,0,Berisiko
+240018,Mallempu 3,berhasil,93.75,100,96,100,95.92,1,Berhasil
+250279,Mattinulu 6,berhasil,63.75,70,78,76,94.9,0,Berisiko
+250251,Mattinulu 7,tidak berhasil,60.75,73,62,82,93.88,0,Berisiko
+260306,Macca 9,berhasil,72.75,83,81,92,96.94,2,Sedang
+250359,Mattinulu 7,berhasil,80.25,98,89,80,96.94,1,Berhasil
+250083,Mattinulu 6,berhasil,77.5,90,80,82,91.84,2,Sedang
+250195,Mattinulu 1,tidak berhasil,62.75,62,75,70,92.86,0,Berisiko
+260268,Macca 8,berhasil,74.0,90,92,81,95.92,1,Berhasil
+250226,Mattinulu 6,berhasil,85.5,100,82,76,95.92,1,Berhasil
+240275,Mallempu 4,berhasil,70.5,72,76,82,95.92,2,Sedang
+250034,Mattinulu 8,berhasil,84.5,88,82,89,98.98,1,Berhasil
+250155,Mattinulu 2,berhasil,87.5,85,75,89,95.92,1,Berhasil
+260107,Macca 4,berhasil,85.75,95,92,78,97.96,1,Berhasil
+260318,Macca 6,tidak berhasil,61.0,65,55,58,94.9,0,Berisiko
+250370,Mattinulu 5,berhasil,75.75,75,85,69,94.9,2,Sedang
+240034,Mallempu 5,berhasil,73.75,80,73,71,96.94,2,Sedang
+260420,Macca 6,berhasil,79.5,90,84,69,94.9,2,Sedang
+240075,Mallempu 7,tidak berhasil,70.75,76,57,70,95.92,0,Berisiko
+260031,Macca 3,tidak berhasil,68.0,66,75,73,92.86,0,Berisiko
+250175,Mattinulu 6,tidak berhasil,50.0,55,55,49,91.84,0,Berisiko
+250137,Mattinulu 3,berhasil,85.5,95,75,87,98.98,1,Berhasil
+250187,Mattinulu 6,berhasil,85.25,100,90,90,97.96,1,Berhasil
+240089,Mallempu 6,berhasil,77.75,76,71,82,92.86,2,Sedang
+240230,Mallempu 3,tidak berhasil,75.25,68,61,78,95.92,0,Berisiko
+240107,Mallempu 6,tidak berhasil,63.25,80,58,59,97.96,0,Berisiko
+250246,Mattinulu 5,tidak berhasil,62.0,78,67,54,97.96,0,Berisiko
+240203,Mallempu 3,berhasil,67.25,85,67,75,97.96,2,Sedang
+240120,Mallempu 5,berhasil,74.75,75,82,79,97.96,2,Sedang
+260296,Macca 6,berhasil,81.25,84,82,63,92.86,2,Sedang
+250214,Mattinulu 2,tidak berhasil,60.0,65,59,54,97.96,0,Berisiko
+240079,Mallempu 4,tidak berhasil,72.25,80,71,55,94.9,0,Berisiko
+240179,Mallempu 7,berhasil,82.75,94,75,81,95.92,1,Berhasil
+250077,Mattinulu 4,tidak berhasil,68.5,71,58,60,94.9,0,Berisiko
+260122,Macca 5,tidak berhasil,72.25,74,64,82,97.96,2,Sedang
+260377,Macca 8,tidak berhasil,52.0,59,62,53,92.86,0,Berisiko
+260303,Macca 4,berhasil,68.75,70,69,86,95.92,2,Sedang
+260179,Macca 1,tidak berhasil,62.0,66,75,62,98.98,0,Berisiko
+240112,Mallempu 6,berhasil,87.0,85,86,67,97.96,2,Sedang
+250204,Mattinulu 1,tidak berhasil,54.75,54,48,52,94.9,0,Berisiko
+240091,Mallempu 7,berhasil,79.75,81,91,75,96.94,2,Sedang
+250211,Mattinulu 2,berhasil,68.0,71,85,79,93.88,2,Sedang
+250126,Mattinulu 7,berhasil,73.75,75,71,87,96.94,2,Sedang
+260102,Macca 6,berhasil,83.5,80,94,85,93.88,1,Berhasil
+250356,Mattinulu 2,berhasil,76.75,80,75,82,93.88,2,Sedang
+260385,Macca 5,tidak berhasil,62.25,65,64,59,92.86,0,Berisiko
+260369,Macca 2,berhasil,76.75,75,78,93,95.92,2,Sedang
+260041,Macca 8,berhasil,71.0,90,63,75,96.94,2,Sedang
+240085,Mallempu 1,berhasil,80.25,75,87,66,94.9,2,Sedang
+240095,Mallempu 7,tidak berhasil,75.5,86,61,78,91.84,2,Sedang
+250232,Mattinulu 4,tidak berhasil,69.5,64,83,71,92.86,0,Berisiko
+250166,Mattinulu 1,berhasil,75.0,92,70,82,92.86,2,Sedang
+260208,Macca 3,tidak berhasil,66.0,80,62,64,94.9,0,Berisiko
+260130,Macca 3,berhasil,66.75,83,80,81,98.98,2,Sedang
+260198,Macca 3,berhasil,81.5,95,77,74,94.9,1,Berhasil
+250202,Mattinulu 3,berhasil,64.0,80,79,82,96.94,2,Sedang
+240105,Mallempu 6,berhasil,87.0,91,68,79,91.84,2,Sedang
+260190,Macca 9,berhasil,82.25,87,69,64,96.94,2,Sedang
+240008,Mallempu 6,berhasil,96.5,100,96,100,93.88,1,Berhasil
+260418,Macca 9,tidak berhasil,73.5,80,62,72,97.96,2,Sedang
+260232,Macca 8,tidak berhasil,70.5,72,60,64,97.96,0,Berisiko
+250228,Mattinulu 2,berhasil,69.75,85,70,83,97.96,2,Sedang
+240321,Mallempu 1,tidak berhasil,68.5,70,47,70,93.88,0,Berisiko
+240204,Mallempu 5,berhasil,72.75,80,84,81,96.94,2,Sedang
+260157,Macca 5,tidak berhasil,70.0,75,59,69,93.88,0,Berisiko
+250110,Mattinulu 8,berhasil,72.75,79,83,91,97.96,2,Sedang
+240115,Mallempu 1,tidak berhasil,67.75,66,70,68,95.92,0,Berisiko
+240245,Mallempu 5,berhasil,79.0,81,70,85,95.92,2,Sedang
+250235,Mattinulu 3,berhasil,97.5,100,88,97,96.94,1,Berhasil
+250185,Mattinulu 7,berhasil,78.75,80,84,79,97.96,2,Sedang
+260106,Macca 4,berhasil,76.75,90,91,97,91.84,1,Berhasil
+260078,Macca 7,berhasil,71.25,85,79,69,95.92,2,Sedang
+240171,Mallempu 7,berhasil,80.25,90,78,71,93.88,2,Sedang
+260308,Macca 8,tidak berhasil,73.75,70,62,69,96.94,0,Berisiko
+250365,Mattinulu 5,tidak berhasil,72.75,64,62,83,97.96,0,Berisiko
+240052,Mallempu 7,berhasil,77.25,84,77,75,95.92,2,Sedang
+260289,Macca 5,berhasil,75.75,90,68,78,97.96,2,Sedang
+250179,Mattinulu 4,tidak berhasil,68.5,63,65,45,96.94,0,Berisiko
+260119,Macca 8,berhasil,75.25,84,77,66,95.92,2,Sedang
+250056,Mattinulu 8,berhasil,76.0,77,82,65,91.84,2,Sedang
+240217,Mallempu 4,tidak berhasil,72.5,65,74,67,98.98,0,Berisiko
+250145,Mattinulu 3,berhasil,83.75,90,80,81,93.88,1,Berhasil
+250269,Mattinulu 3,tidak berhasil,67.75,78,59,53,95.92,0,Berisiko
+240191,Mallempu 6,tidak berhasil,73.25,87,76,72,93.88,2,Sedang
+250101,Mattinulu 8,tidak berhasil,63.0,65,59,55,90.82,0,Berisiko
+260279,Macca 8,tidak berhasil,67.25,75,87,77,87.76,2,Sedang
+240262,Mallempu 5,berhasil,70.5,80,86,66,95.92,2,Sedang
+260240,Macca 3,tidak berhasil,76.75,73,75,70,89.8,2,Sedang
+260261,Macca 2,berhasil,84.5,76,96,69,91.84,2,Sedang
+260407,Macca 3,berhasil,91.75,99,69,85,96.94,1,Berhasil
+240317,Mallempu 1,berhasil,75.5,77,85,80,96.94,2,Sedang
+250108,Mattinulu 2,tidak berhasil,66.25,65,66,65,92.86,0,Berisiko
+260396,Macca 7,tidak berhasil,64.25,77,55,68,97.96,0,Berisiko
+240036,Mallempu 6,berhasil,76.75,84,79,73,98.98,2,Sedang
+260043,Macca 2,tidak berhasil,72.25,76,75,77,95.92,2,Sedang
+260343,Macca 1,berhasil,82.75,77,80,80,92.86,2,Sedang
+240166,Mallempu 3,berhasil,75.25,81,75,78,94.9,2,Sedang
+240282,Mallempu 7,berhasil,79.0,77,76,83,100.0,2,Sedang
+260353,Macca 6,berhasil,75.0,93,85,79,94.9,1,Berhasil
+260025,Macca 5,berhasil,88.5,100,90,87,96.94,1,Berhasil
+250039,Mattinulu 3,berhasil,71.0,74,78,69,96.94,2,Sedang
+240209,Mallempu 2,tidak berhasil,71.0,78,78,58,94.9,0,Berisiko
+260218,Macca 5,berhasil,91.5,95,100,92,94.9,1,Berhasil
+250157,Mattinulu 2,berhasil,75.25,90,73,66,91.84,2,Sedang
+260293,Macca 4,berhasil,73.75,82,70,75,94.9,2,Sedang
+260305,Macca 7,berhasil,75.5,72,70,79,93.88,2,Sedang
+260337,Macca 1,tidak berhasil,67.0,64,68,79,96.94,0,Berisiko
+240081,Mallempu 5,berhasil,87.0,95,89,91,96.94,1,Berhasil
+240033,Mallempu 1,tidak berhasil,71.25,75,82,58,93.88,0,Berisiko
+260404,Macca 9,berhasil,74.5,88,76,87,96.94,2,Sedang
+240003,Mallempu 2,tidak berhasil,61.0,62,79,49,97.96,0,Berisiko
+260212,Macca 5,tidak berhasil,77.25,80,60,59,95.92,0,Berisiko
+260255,Macca 7,berhasil,81.25,100,82,69,95.92,1,Berhasil
+250223,Mattinulu 3,berhasil,67.5,75,77,77,88.78,2,Sedang
+250172,Mattinulu 6,berhasil,79.5,93,89,77,97.96,1,Berhasil
+260373,Macca 9,tidak berhasil,61.5,65,65,65,95.92,0,Berisiko
+240313,Mallempu 6,tidak berhasil,66.75,75,67,81,88.78,0,Berisiko
+240195,Mallempu 3,berhasil,81.0,95,76,91,94.9,1,Berhasil
+250105,Mattinulu 3,tidak berhasil,77.0,88,65,62,91.84,2,Sedang
+240087,Mallempu 6,tidak berhasil,71.25,82,69,81,91.84,2,Sedang
+250340,Mattinulu 8,tidak berhasil,68.0,69,74,89,93.88,2,Sedang
+250071,Mattinulu 3,berhasil,82.25,100,79,71,96.94,1,Berhasil
+260238,Macca 6,berhasil,79.25,85,83,75,97.96,2,Sedang
+250176,Mattinulu 8,berhasil,77.0,80,72,63,96.94,2,Sedang
+240043,Mallempu 6,tidak berhasil,73.25,90,63,63,93.88,2,Sedang
+240038,Mallempu 6,berhasil,65.25,75,63,82,95.92,0,Berisiko
+260094,Macca 3,berhasil,80.25,82,73,67,94.9,2,Sedang
+250043,Mattinulu 7,tidak berhasil,71.75,76,64,67,96.94,0,Berisiko
+260066,Macca 4,berhasil,83.25,100,86,92,96.94,1,Berhasil
+260248,Macca 1,berhasil,72.25,86,74,63,94.9,2,Sedang
+250294,Mattinulu 7,berhasil,80.75,80,72,92,96.94,2,Sedang
+250320,Mattinulu 4,berhasil,83.0,95,76,75,88.78,2,Sedang
+260028,Macca 5,berhasil,83.5,95,76,68,97.96,2,Sedang
+260383,Macca 8,tidak berhasil,70.5,65,72,69,92.86,0,Berisiko
+250304,Mattinulu 3,berhasil,68.0,75,73,74,91.84,2,Sedang
+260217,Macca 2,tidak berhasil,76.75,80,80,57,94.9,2,Sedang
+260223,Macca 4,tidak berhasil,72.75,74,63,72,92.86,0,Berisiko
+260356,Macca 4,berhasil,70.75,70,75,75,96.94,2,Sedang
+260001,Macca 1,berhasil,77.0,98,84,85,92.86,1,Berhasil
+260390,Macca 6,tidak berhasil,64.5,78,63,65,89.8,0,Berisiko
+240042,Mallempu 2,tidak berhasil,71.25,64,59,64,97.96,0,Berisiko
+240200,Mallempu 2,berhasil,74.25,81,72,80,96.94,2,Sedang
+260069,Macca 1,berhasil,70.0,76,77,89,95.92,2,Sedang
+240305,Mallempu 2,tidak berhasil,62.75,70,60,86,91.84,0,Berisiko
+260322,Macca 8,berhasil,80.75,64,77,87,98.98,2,Sedang
+250302,Mattinulu 8,tidak berhasil,84.25,75,72,72,96.94,2,Sedang
+240080,Mallempu 4,berhasil,83.0,95,85,68,96.94,1,Berhasil
+250268,Mattinulu 8,berhasil,74.25,77,96,85,97.96,2,Sedang
+260235,Macca 5,tidak berhasil,67.75,75,80,67,95.92,2,Sedang
+250203,Mattinulu 2,tidak berhasil,69.0,74,53,56,97.96,0,Berisiko
+240131,Mallempu 5,tidak berhasil,61.25,80,59,68,95.92,0,Berisiko
+250119,Mattinulu 7,berhasil,85.25,92,78,77,94.9,1,Berhasil
+250306,Mattinulu 1,berhasil,80.25,92,70,81,96.94,2,Sedang
+260364,Macca 3,tidak berhasil,60.25,70,66,54,95.92,0,Berisiko
+260004,Macca 5,tidak berhasil,65.75,70,56,67,95.92,0,Berisiko
+240041,Mallempu 3,berhasil,87.75,90,79,84,96.94,1,Berhasil
+260147,Macca 7,tidak berhasil,66.25,77,70,63,97.96,0,Berisiko
+240257,Mallempu 4,tidak berhasil,61.75,64,58,67,89.8,0,Berisiko
+260251,Macca 8,tidak berhasil,59.25,66,56,62,97.96,0,Berisiko
+260030,Macca 5,berhasil,71.75,80,73,67,93.88,2,Sedang
+260319,Macca 7,tidak berhasil,57.0,55,66,68,96.94,0,Berisiko
+260125,Macca 9,tidak berhasil,78.25,75,70,69,95.92,2,Sedang
+250222,Mattinulu 2,berhasil,83.5,85,69,79,97.96,2,Sedang
+250314,Mattinulu 1,berhasil,75.0,78,82,84,93.88,2,Sedang
+240099,Mallempu 3,berhasil,81.25,81,100,89,97.96,1,Berhasil
+240110,Mallempu 1,tidak berhasil,76.5,90,92,58,86.73,2,Sedang
+250252,Mattinulu 4,tidak berhasil,78.75,77,73,68,92.86,2,Sedang
+250146,Mattinulu 1,berhasil,79.25,91,86,83,98.98,1,Berhasil
+240006,Mallempu 6,tidak berhasil,75.25,72,79,60,95.92,0,Berisiko
+250342,Mattinulu 7,berhasil,86.75,83,75,74,97.96,2,Sedang
+240218,Mallempu 2,berhasil,83.0,85,83,78,94.9,2,Sedang
+260145,Macca 8,berhasil,86.25,85,78,69,94.9,2,Sedang
+240051,Mallempu 5,tidak berhasil,60.5,70,70,73,85.71,0,Berisiko
+240220,Mallempu 7,tidak berhasil,72.5,75,69,54,96.94,0,Berisiko
+250067,Mattinulu 3,berhasil,78.5,85,84,72,95.92,2,Sedang
+240004,Mallempu 1,tidak berhasil,73.25,79,71,67,98.98,2,Sedang
+260137,Macca 1,berhasil,79.25,78,80,81,93.88,2,Sedang
+250174,Mattinulu 2,berhasil,78.25,80,71,66,94.9,2,Sedang
+240050,Mallempu 1,berhasil,78.75,80,90,75,96.94,2,Sedang
+260334,Macca 4,tidak berhasil,62.5,54,52,60,93.88,0,Berisiko
+260163,Macca 7,berhasil,80.5,88,65,82,95.92,2,Sedang
+250345,Mattinulu 2,berhasil,78.5,81,68,73,91.84,2,Sedang
+250085,Mattinulu 5,berhasil,80.25,85,75,70,94.9,2,Sedang
+260118,Macca 8,berhasil,79.25,98,88,75,96.94,1,Berhasil
+240223,Mallempu 1,berhasil,79.0,89,83,77,94.9,2,Sedang
+250113,Mattinulu 7,tidak berhasil,68.5,68,71,56,94.9,0,Berisiko
+250109,Mattinulu 4,tidak berhasil,68.5,78,73,67,96.94,2,Sedang
+240182,Mallempu 6,berhasil,75.25,85,73,82,97.96,2,Sedang
+250194,Mattinulu 4,berhasil,94.0,100,99,96,95.92,1,Berhasil
+260165,Macca 6,tidak berhasil,65.5,78,78,66,95.92,2,Sedang
+240067,Mallempu 5,berhasil,75.75,80,86,71,96.94,2,Sedang
+240063,Mallempu 3,berhasil,60.75,85,67,64,94.9,0,Berisiko
+250216,Mattinulu 4,berhasil,68.5,81,81,62,93.88,2,Sedang
+260139,Macca 4,berhasil,74.75,84,68,73,95.92,2,Sedang
+260290,Macca 6,berhasil,88.0,92,89,97,91.84,1,Berhasil
+260129,Macca 1,tidak berhasil,70.0,80,77,74,97.96,2,Sedang
+240316,Mallempu 2,berhasil,74.75,89,81,74,88.78,2,Sedang
+260264,Macca 1,berhasil,84.25,93,76,73,94.9,2,Sedang
+240024,Mallempu 4,tidak berhasil,74.5,75,69,71,91.84,2,Sedang
+260162,Macca 3,berhasil,79.75,78,80,92,89.8,2,Sedang
+260391,Macca 3,berhasil,74.0,75,74,93,94.9,2,Sedang
+250325,Mattinulu 3,berhasil,79.75,91,79,72,94.9,2,Sedang
+240208,Mallempu 3,berhasil,73.75,80,76,72,95.92,2,Sedang
+250164,Mattinulu 5,tidak berhasil,67.5,60,67,68,93.88,0,Berisiko
+250330,Mattinulu 4,berhasil,68.5,80,72,74,97.96,2,Sedang
+240194,Mallempu 7,berhasil,73.25,86,56,81,93.88,2,Sedang
+240186,Mallempu 2,berhasil,75.5,76,82,81,96.94,2,Sedang
+240097,Mallempu 1,tidak berhasil,66.25,65,62,75,93.88,0,Berisiko
+260019,Macca 9,berhasil,77.0,72,80,80,98.98,2,Sedang
+260347,Macca 1,tidak berhasil,62.5,70,57,53,95.92,0,Berisiko
+260372,Macca 6,berhasil,89.5,95,86,80,97.96,1,Berhasil
+250013,Mattinulu 1,tidak berhasil,63.0,59,49,65,96.94,0,Berisiko
+260362,Macca 3,berhasil,85.25,90,85,85,96.94,1,Berhasil
+250063,Mattinulu 5,tidak berhasil,67.5,70,67,58,95.92,0,Berisiko
+260067,Macca 2,berhasil,91.0,100,100,92,95.92,1,Berhasil
+240176,Mallempu 7,berhasil,79.25,75,85,72,96.94,2,Sedang
+260089,Macca 4,berhasil,75.25,85,69,87,97.96,2,Sedang
+250139,Mattinulu 4,tidak berhasil,68.5,84,74,55,93.88,0,Berisiko
